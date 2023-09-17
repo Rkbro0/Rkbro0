@@ -28,7 +28,7 @@ Experienced data scientist skilled in building data-intensive applications using
 [![](https://visitcount.itsvg.in/api?id=Rohankumarbohara&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dipeshpal) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DIPESHPAUL) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/rkbohara09q) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ROHANBOHARA) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -36,7 +36,7 @@ Experienced data scientist skilled in building data-intensive applications using
 ### More About Me
 
 
-- www.dipeshpal.in
+- https://rohankumarboharaportfolio.netlify.app
 
 ---
 
